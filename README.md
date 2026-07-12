@@ -35,8 +35,6 @@ The game generates a random sequence of LEDs and tones. The player must correctl
 
 ## Circuit Diagram
 
-> Replace the placeholder below with the final circuit image.
-
 ![Circuit Diagram](images/final_circuit.png)
 
 ---
